@@ -7,13 +7,13 @@ Busco evoluir profissionalmente na área de Análise de Dados, aprofundando conh
 
 
 Tecnologias
-SQL
-Python (Pandas, Matplotlib)
-Power BI
-Excel Avançado
+SQL,
+Python (Pandas, Matplotlib),
+Power BI,
+Excel Avançado,
 
 Foco Profissional
-Análise Exploratória de Dados (EDA)
-Construção de KPIs
-Market Share e Performance Comercial
-Business Intelligence
+Análise Exploratória de Dados (EDA),
+Construção de KPIs,
+Market Share e Performance Comercial,
+Business Intelligence,
