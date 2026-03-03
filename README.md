@@ -1,16 +1,19 @@
-## Hi there 👋
+João Pedro Freire
 
-<!--
-**joaopedrofreir/joaopedrofreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estagiário de Inteligência de Mercado | SQL • Python • Power BI
+Atuo com análise de dados e indicadores de mercado, acompanhando performance de marcas, variações de volume e participação (market share), apoiando decisões estratégicas com base em dados.
+Tenho experiência com bases estruturadas de vendas e KPIs, realizando consultas analíticas em SQL, tratamento e exploração de dados com Python (Pandas) e construção de dashboards no Power BI para visualização de resultados.
+Busco evoluir profissionalmente na área de Análise de Dados, aprofundando conhecimentos em modelagem, exploração e geração de insights orientados ao negócio.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias
+SQL
+Python (Pandas, Matplotlib)
+Power BI
+Excel Avançado
+
+Foco Profissional
+Análise Exploratória de Dados (EDA)
+Construção de KPIs
+Market Share e Performance Comercial
+Business Intelligence
