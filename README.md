@@ -8,7 +8,7 @@ Busco evoluir profissionalmente na área de Análise de Dados, aprofundando conh
 
 Tecnologias
 SQL,
-Python (Pandas, Matplotlib),
+Python,
 Power BI,
 Excel Avançado,
 
